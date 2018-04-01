@@ -1,0 +1,24 @@
+{
+  "id": "filmarks",
+  "name": "filmarks",
+  "version": "1.0.0",
+  "description": "filmarks in Franz",
+  "main": "index.js",
+  "author": "Chihiro Hasegawa <main.chihiro@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://filmarks.com/",
+    "serviceName": "Filmarks",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
